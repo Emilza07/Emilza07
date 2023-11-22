@@ -25,21 +25,16 @@ I'm currently focusing on improving my skills in networks and android programmin
 Here are some projects I'm proud of:
 
 1. [Yahtzee](https://github.com/Emilza07/Yahtzee) - My first Windows Forms project.
-2. [Robot code 2023](https://github.com/TheJoker4320/RobotCode2023) - [Robot code of my FIRST FRC team The Joker 4320](https://frcthejoker4320.wixsite.com/team4320).
+2. [Robot code 2023](https://github.com/TheJoker4320/RobotCode2023) - Robot code of my FIRST FRC team [The Joker 4320](https://frcthejoker4320.wixsite.com/team4320).
 
 Feel free to explore these projects and provide feedback!
 
 ## 📫 Let's Connect
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- Discord: [YourUsername#1234](https://discord.com/YourUsername#1234)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
+- GitHub: [Emilza07](https://github.com/Emilza07)
+- Discord: [Emil.za07](https://discord.com/users/757926627895410809)
+- LinkedIn: [Emil Zalessky](www.linkedin.com/in/emil-zalessky)
 
 Don't hesitate to reach out if you have any questions, collaboration ideas, or just want to chat. I'm always open to new connections and opportunities!
-
-## 🌟 Fun Facts
-
-- [Random fun fact about yourself]
-- [Another interesting tidbit]
 
 Thanks for visiting! Happy coding! 👩‍💻🚀
