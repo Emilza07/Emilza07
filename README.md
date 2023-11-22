@@ -6,7 +6,7 @@
 
 ## 👋 Hello World!
 
-Welcome to my GitHub profile! I'm Emil, a passionate programmer based in Israe I love programming, racing and flight simulation, and I'm always exploring new technologies and working on exciting projects.
+Welcome to my GitHub profile! I'm Emil, a passionate programmer based in Israel. I love programming, racing and flight simulation, and I'm always exploring new technologies and working on exciting projects.
 
 - **Languages:** C#, Java, Python
 
