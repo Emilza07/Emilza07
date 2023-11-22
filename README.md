@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Emilza07?style=social)](https://github.com/Emilza07)
 [![Discord](https://img.shields.io/badge/Discord-Emil.za07-blue)](https://discord.com/users/757926627895410809)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emil%20Zalessky-blue)](https://linkedin.com/in/emil-zalessky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emil%20Zalessky-blue)](https://time.com)
 
 ## 👋 Hello World!
 
