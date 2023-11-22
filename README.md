@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Emilza07/Emilza07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,7 +26,6 @@ Here are some projects I'm proud of:
 
 1. [Yahtzee](https://github.com/Emilza07/Yahtzee) - My first Windows Forms project.
 2. [Robot code 2023](https://github.com/TheJoker4320/RobotCode2023) - [Robot code of my FIRST FRC team The Joker 4320](https://frcthejoker4320.wixsite.com/team4320).
-   <!-- Add more projects as needed -->
 
 Feel free to explore these projects and provide feedback!
 
