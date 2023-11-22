@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-**Emilza07/Emilza07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Emil
 
 [![GitHub followers](https://img.shields.io/github/followers/Emilza07?style=social)](https://github.com/Emilza07)
